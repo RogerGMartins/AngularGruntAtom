@@ -1,0 +1,38 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "aedfc672-5033-4321-849e-149d81f5623e"
+  "atom-ternjs":
+    displayAboveSnippets: true
+    useSnippets: true
+    useSnippetsAndFunction: true
+  "autocomplete-plus": {}
+  build: {}
+  core:
+    packagesWithKeymapsDisabled: [
+      "tag"
+    ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "43e1cfa0-096c-cd87-3c99-1849760a7afa"
+  "grunt-runner": {}
+  "jscs-fixer": {}
+  linter:
+    errorPanelHeight: 186
+  "linter-jscs": {}
+  "linter-jshint":
+    disableWhenNoJshintrcFileInPath: true
+  minimap:
+    plugins:
+      bookmarks: true
+      cursorline: true
+      "find-and-replace": true
+      linter: true
+      "minimap-autohide": true
+    scrollAnimation: true
+  "npm-install": {}
+  "tool-bar":
+    position: "Left"
+  "tool-bar-almighty": {}
+  welcome:
+    showOnStartup: false
